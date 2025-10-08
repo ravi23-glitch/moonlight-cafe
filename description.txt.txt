@@ -1,0 +1,11 @@
+Moonlight Cafe
+
+Concept:
+Moonlight Café is a fictional coffee shop website inspired by the calm and cozy atmosphere of late-night cafés. 
+The design blends dark tones with warm golden highlights to evoke the soft glow of moonlight and candlelight.
+
+Design Choices:
+The layout is minimal yet immersive, featuring a hero section with a background image and smooth color overlay. 
+Typography uses the Poppins font for readability and modern aesthetics. Subtle hover effects and transitions bring the menu items and buttons to life, 
+creating a warm and interactive browsing experience. The entire website is responsive and cleanly structured in HTML and CSS, 
+demonstrating design focus over complex functionality.
